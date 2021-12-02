@@ -7,6 +7,10 @@ Barcode-seq is a next-generation sequencing (NGS) technique that reads genome-in
 
 Questions and comments can be emailed to the system administrator of BaSDAS system (Barcode.SDAS@gmail.com).
 
+# Citation
+ 
+Park, Young-Kyu, et al. "BaSDAS: a web-based pooled CRISPR-Cas9 knockout screening data analysis system." Genomics & informatics 18.4 (2020).
+
 # Data availability
  - [ ] 001 - 010: http://www.appex.kr/web_download/PSJ/BasDas/001-010.zip
 
