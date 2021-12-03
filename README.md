@@ -16,6 +16,10 @@ Park, Young-Kyu, et al. "BaSDAS: a web-based pooled CRISPR-Cas9 knockout screeni
 
  - [ ] 011 - 020: http://www.appex.kr/web_download/PSJ/BasDas/011-020.zip
 
+※ If you get in trouble to download, mouse 'right click' and 'save as'
+
+※ Recommended Internet Explorer or other browsers, cannot be downloaded from Google-chrome browser
+
 # References
 
 - Smith AM, Heisler LE, Mellor J, Kaper F, Thompson MJ, Chee M, Roth FP, Giaever G, Nislow C. Quantitative phenotyping via deep barcode sequencing. Genome Res. 2009;19(10):1836-42.
