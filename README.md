@@ -11,7 +11,7 @@ Questions and comments can be emailed to the system administrator of BaSDAS syst
  
 Park, Young-Kyu, et al. "BaSDAS: a web-based pooled CRISPR-Cas9 knockout screening data analysis system." Genomics & informatics 18.4 (2020).
 
-# Data availability
+# Data availability (2nd update)
  - [ ] 001 - 010: http://www.appex.kr/web_download/PSJ/BasDas/001-010.zip
 
  - [ ] 011 - 020: http://www.appex.kr/web_download/PSJ/BasDas/011-020.zip
