@@ -16,9 +16,9 @@ Park, Young-Kyu, et al. "BaSDAS: a web-based pooled CRISPR-Cas9 knockout screeni
 
  - [ ] 011 - 020: http://www.appex.kr/web_download/PSJ/BasDas/011-020.zip
  
- - [ ] 011 - 020: http://www.appex.kr/web_download/PSJ/BasDas/021-030.zip
+ - [ ] 021 - 030: http://www.appex.kr/web_download/PSJ/BasDas/021-030.zip
  
- - [ ] 011 - 020: http://www.appex.kr/web_download/PSJ/BasDas/031-040.zip
+ - [ ] 031 - 040: http://www.appex.kr/web_download/PSJ/BasDas/031-040.zip
  
  - [ ] SQL file: http://www.appex.kr/web_download/PSJ/BasDas/BASDAS_2nd.sql.gz
 
